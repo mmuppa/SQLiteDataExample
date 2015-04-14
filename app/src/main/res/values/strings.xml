@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteDataExample</string>
+
+    <string name="submit">Submit</string>
+    <string name="number_prompt">Enter your id</string>
+    <string name="name_prompt">Enter your name</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_example_list">ExampleListActivity</string>
+
+    <string name="action_new">New</string>
+</resources>
